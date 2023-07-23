@@ -13,72 +13,79 @@ EcoCycle+: Contribuindo para um Mundo Mais Sustentável!
 
 
 ## Declaração de Escopo do Projeto 
+<details>
 ### Título: EcoCycle+
 Descrição: O projeto consiste na criação de um sistema web que permita a coleta e reciclagem de produtos eletrônicos de forma segura e sustentável. O sistema será acessível por meio de um site, onde os usuários poderão se cadastrar, informar dados dos produtos eletrônicos que desejam descartar, agendar a coleta e acompanhar o status do processo de coleta e reciclagem.
 
 Patrocinador (Cliente): Empresa de reciclagem de produtos eletrônicos "ReciclaTech Ltda."
 
 ## Equipe:
-> - Gerente de Projeto
-> - Analista de Requisitos
-> - Designer de Interfaces
-> - Desenvolvedores Web
-> - Testadores de Qualidade
+- Gerente de Projeto
+- Analista de Requisitos
+- Designer de Interfaces
+- Desenvolvedores Web
+- Testadores de Qualidade
 
 ## Objetivos:
-> - Criar um sistema web para coleta e reciclagem de produtos eletrônicos de forma segura e sustentável;
-> - Permitir o cadastro e o agendamento de coleta pelos usuários;
-> - Facilitar o acompanhamento do processo de coleta e reciclagem pelos usuários;
-> - Contribuir para a preservação do meio ambiente por meio da reciclagem adequada de produtos eletrônicos;
+- Criar um sistema web para coleta e reciclagem de produtos eletrônicos de forma segura e sustentável;
+- Permitir o cadastro e o agendamento de coleta pelos usuários;
+- Facilitar o acompanhamento do processo de coleta e reciclagem pelos usuários;
+- Contribuir para a preservação do meio ambiente por meio da reciclagem adequada de produtos eletrônicos;
 
-**Justificativa**: A crescente produção de lixo eletrônico tem se tornado um grande problema ambiental em todo o mundo, e a reciclagem adequada desses produtos é fundamental para a preservação do meio ambiente. O sistema web de coleta e reciclagem de produtos eletrônicos tem como objetivo contribuir para a solução desse problema, tornando o processo de descarte mais fácil, seguro e sustentável.
+## Justificativa: 
+A crescente produção de lixo eletrônico tem se tornado um grande problema ambiental em todo o mundo, e a reciclagem adequada desses produtos é fundamental para a preservação do meio ambiente. O sistema web de coleta e reciclagem de produtos eletrônicos tem como objetivo contribuir para a solução desse problema, tornando o processo de descarte mais fácil, seguro e sustentável.
 
 ## Fatores de sucesso:
-> - Funcionamento adequado do sistema web, sem falhas ou erros;
-> - Coleta e reciclagem efetiva dos produtos eletrônicos cadastrados pelos usuários;
-> - Satisfação dos usuários com o sistema.
+- Funcionamento adequado do sistema web, sem falhas ou erros;
+- Coleta e reciclagem efetiva dos produtos eletrônicos cadastrados pelos usuários;
+- Satisfação dos usuários com o sistema.
 
 
 
 ## Restrições:
-> - Disponibilidade limitada de recursos financeiros para o desenvolvimento do projeto;
-> - Prazo limitado para a conclusão do projeto.
+- Disponibilidade limitada de recursos financeiros para o desenvolvimento do projeto;
+- Prazo limitado para a conclusão do projeto.
 
 ## Premissas:
-> - Os usuários serão responsáveis por fornecer informações corretas e precisas sobre os produtos eletrônicos que desejam descartar;
-> - A empresa de reciclagem de produtos eletrônicos ReciclaTech Ltda. será responsável pelo processo de reciclagem dos produtos coletados.
+- Os usuários serão responsáveis por fornecer informações corretas e precisas sobre os produtos eletrônicos que desejam descartar;
+- A empresa de reciclagem de produtos eletrônicos ReciclaTech Ltda. será responsável pelo processo de reciclagem dos produtos coletados.
 
 ## Exclusões específicas:
-> - Não será feita a coleta de produtos eletrônicos fora do território nacional;
-> - Não serão aceitos produtos eletrônicos em mau estado de conservação.
+- Não será feita a coleta de produtos eletrônicos fora do território nacional;
+- Não serão aceitos produtos eletrônicos em mau estado de conservação.
 
 ## Entregas principais:
-> - Documentação de requisitos do sistema web;
-> - Design de interfaces do sistema web;
-> - Código fonte do sistema web;
-> - Testes de qualidade do sistema web.
-> - Orçamento previsto: R$ 150.000,00
+- Documentação de requisitos do sistema web;
+- Design de interfaces do sistema web;
+- Código fonte do sistema web;
+- Testes de qualidade do sistema web.
+- Orçamento previsto: R$ 150.000,00
 
 ## Marcos principais:
-> - Conclusão da documentação de requisitos: 15/06/2023
-> - Conclusão do design de interfaces: 30/06/2023
-> - Conclusão do desenvolvimento do sistema web: 30/09/2023
-> - onclusão dos testes de qualidade: 15/10/2023
-> - Lançamento do sistema web: 01/11/2023
+- Conclusão da documentação de requisitos: 15/06/2023
+- Conclusão do design de interfaces: 30/06/2023
+- Conclusão do desenvolvimento do sistema web: 30/09/2023
+- onclusão dos testes de qualidade: 15/10/2023
+- Lançamento do sistema web: 01/11/2023
 
 ## Critérios de aceitação do projeto:
-> - O sistema web deve ser desenvolvido dentro do prazo estipulado de 12 meses.
-> - O sistema web deve atender a todos os requisitos definidos na documentação de requisitos.
-> - O sistema web deve ser capaz de gerenciar o cadastro de usuários, empresas parceiras, produtos eletrônicos, pontos de coleta e informações de reciclagem.
-> - O sistema web deve permitir o agendamento de coleta de produtos eletrônicos pelos usuários e a visualização de pontos de coleta mais próximos.
-> - O sistema web deve fornecer relatórios precisos sobre a quantidade de produtos coletados e reciclados.
-> - O sistema web deve ser intuitivo e fácil de usar para os usuários.
-> - O sistema web deve ser seguro e proteger os dados dos usuários e empresas parceiras.
-> - O sistema web deve ser escalável para suportar um grande número de usuários e empresas parceiras.
-> - O sistema web deve estar de acordo com as leis e regulamentações ambientais.
-> - O sistema web deve ser testado antes do lançamento para garantir sua funcionalidade e qualidade.
+- O desenvolvimento do aplicativo web deverá ser concluído no prazo de 12 meses estipulado.
+- O aplicativo web deverá atender a todos os critérios definidos na documentação de requisitos.
+- O aplicativo web deverá oferecer recursos para o gerenciamento de registros de usuários, empresas parceiras, produtos eletrônicos, pontos de coleta e informações de   reciclagem.
+- O aplicativo web deverá permitir que os usuários agendem a coleta de produtos eletrônicos e visualizem os pontos de coleta mais próximos.
+- O aplicativo web deverá fornecer relatórios precisos sobre a quantidade de produtos coletados e reciclados.
+- O aplicativo web deverá possuir uma interface intuitiva e de fácil utilização para os usuários.
+- A segurança do aplicativo web deverá ser uma prioridade para garantir a proteção dos dados de usuários e empresas parceiras.
+- O aplicativo web deverá ser escalável para suportar uma grande quantidade de usuários e empresas parceiras.
+- O aplicativo web deverá estar em conformidade com todas as leis e regulamentações ambientais aplicáveis.
+- Antes do lançamento, o aplicativo web deverá passar por testes abrangentes para assegurar sua funcionalidade e qualidade.
+  
+</details>
 
-Stakeholders do Projeto:
+
+## Stakeholders do Projeto:
+<details>
+  
 1. Cliente/Patrocinador: Empresa de reciclagem de produtos eletrônicos "ReciclaTech Ltda.", responsável por fornecer os recursos financeiros para o desenvolvimento do projeto e interessada em implementar o sistema web de coleta e reciclagem.
 2. Usuários: Indivíduos e empresas que desejam descartar corretamente produtos eletrônicos. Eles utilizarão o sistema web para cadastrar os produtos, agendar a coleta e acompanhar o processo de reciclagem.
 3. Equipe de Desenvolvimento: Engloba gerente de projeto, analista de requisitos, designer de interfaces, desenvolvedores web e testadores de qualidade. Eles são responsáveis por desenvolver, testar e implementar o sistema web.
@@ -87,8 +94,13 @@ Stakeholders do Projeto:
 6. Instituições de Caridade: Entidades que poderão receber as doações dos pontos obtidos pelos usuários por meio do descarte correto de produtos eletrônicos. Essas instituições podem beneficiar-se das doações recebidas.
 7. Fornecedores de Hardware e Software: Empresas ou fornecedores de tecnologia que possam fornecer os recursos necessários para a infraestrutura e hospedagem do sistema web.
 8. Sociedade e Meio Ambiente: Stakeholders indiretos que são afetados positivamente pelo projeto, pois a correta coleta e reciclagem de produtos eletrônicos contribui para a preservação ambiental e redução de resíduos.
+  
+</details>
+
 
 ## A Política Nacional de Resíduos Sólidos:
+<details>
+  
 >A Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) é uma legislação brasileira que estabelece diretrizes e responsabilidades para a gestão adequada dos resíduos sólidos, incluindo os produtos eletrônicos. A PNRS tem como objetivo principal promover a preservação da saúde pública, da qualidade ambiental e o desenvolvimento sustentável.
 
 ### A PNRS estabelece diversas diretrizes e instrumentos que são relevantes para o projeto de coleta e reciclagem de produtos eletrônicos. Alguns pontos importantes incluem:
@@ -99,9 +111,13 @@ Stakeholders do Projeto:
 1. Lei de Crimes Ambientais (Lei nº 9.605/1998): Estabelece sanções penais e administrativas para condutas lesivas ao meio ambiente, incluindo o descarte inadequado de resíduos sólidos e produtos eletrônicos.
 2. Normas Técnicas ABNT: A Associação Brasileira de Normas Técnicas (ABNT) possui normas relacionadas à gestão ambiental, resíduos sólidos e logística reversa, que podem ser utilizadas como referência para o desenvolvimento do sistema web.
 3. Regulamentações estaduais e municipais: É importante considerar as leis e regulamentos específicos de cada estado e município onde o projeto será implementado, pois podem existir normas adicionais ou particularidades regionais relacionadas à gestão de resíduos sólidos.
+   
+</details>
+
 
 ## Sistema Web de apoio a coleta e reciclagem de produtos eletrônicos
-
+<details>
+  
 ### Documentação de Requisitos para o Sistema Web de Coleta e Reciclagem de Produtos Eletrônicos:
 
 > - Requisito: Cadastro de usuários
@@ -143,3 +159,5 @@ Prioridade: Alta
 Categoria: Não Funcional
 Descrição: O sistema deve permitir a integração com redes sociais, para que usuários possam compartilhar informações sobre a iniciativa e incentivar mais pessoas a aderirem ao projeto.
 Prioridade: Baixa
+
+</details>
