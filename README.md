@@ -161,3 +161,53 @@ Descrição: O sistema deve permitir a integração com redes sociais, para que 
 Prioridade: Baixa
 
 </details>
+
+## Estrutura Analítica do Projeto (EAP):
+
+<details>
+
+- Início do Projeto
+  - Definição do Escopo
+  - Levantamento de Requisitos
+  - Análise de Viabilidade
+  - Plano de Gerenciamento do Projeto
+  - Plano de Gerenciamento de tempo
+  - Plano de gerenciamento de custo
+  - Plano de gerenciamento de riscos
+    
+- Planejamento e Design
+  - Planejamento do Cronograma
+  - Planejamento de Recursos
+  - Planejamento de Custos
+  - Design da Arquitetura do Sistema
+  - Design da Interface do Usuário
+  - Planejamento de Testes
+    
+- Desenvolvimento
+  - Software funcional
+  - Versões ou releases
+  - Documentação
+  - Protótipos
+  - Relatórios de progresso
+    
+- Testes e Validação
+  - Testes de Unidade
+  - Testes de Integração
+  - Testes de Aceitação
+  - Testes de Desempenho
+  - Validação do Sistema
+    
+- Implantação e Lançamento
+  - Preparação do Ambiente de Produção
+  - Migração de Dados
+  - Treinamento de Usuários
+  - Lançamento do Sistema
+  - Monitoramento e Ajustes Iniciais
+    
+- Encerramento do Projeto
+  - Documentação Final do Projeto
+  - Relatório de Lições Aprendidas
+  - Encerramento Administrativo
+  
+</details>
+
