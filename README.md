@@ -358,3 +358,39 @@ Descrição: Possibilidade de surgimento de outros sistemas ou soluções concor
 **Medidas de Mitigação**: Acompanhar o mercado, identificar pontos fortes e fracos da concorrência, e buscar constantemente inovar e melhorar a plataforma.
   
 </details>
+
+## Gerenciamento das Partes Interessadas:
+<details>
+
+  
+Usuários Finais:
+Indivíduos e empresas utilizam o EcoCycle+ para apoio no descarte de produtos eletrônicos de forma sustentável.
+
+Empresas de Coleta de Resíduos Eletrônicos:
+Empresas especializadas na coleta e transporte de resíduos eletrônicos para os centros de reciclagem.
+
+Órgãos Governamentais:
+Agências governamentais responsáveis por políticas e regulamentações ambientais e de reciclagem.
+
+Equipe de Desenvolvimento do Projeto:
+Profissionais envolvidos no desenvolvimento do sistema EcoCycle+, incluindo desenvolvedores, designers e analistas.
+
+Equipe de Suporte:
+Profissionais encarregados de fornecer suporte técnico e atendimento ao cliente para os usuários do sistema.
+
+Gerente de Projeto:
+Responsável pela gestão geral do projeto, coordenação das equipes e garantia do cumprimento dos objetivos.
+
+Investidores e Patrocinadores:
+Pessoas físicas ou jurídicas que forneçam recursos financeiros para o desenvolvimento do sistema.
+
+Meio Ambiente e Comunidade Local:
+A comunidade local e o meio ambiente como um todo, que se beneficiam da redução do descarte inadequado de resíduos eletrônicos.
+
+Parceiros e Instituições de Reciclagem:
+Empresas ou organizações que recebem os resíduos eletrônicos coletados pelo sistema EcoCycle+ para reciclagem e reutilização.
+
+Organizações Ambientais:
+Entidades que atuam na defesa e preservação do meio ambiente, apoiando iniciativas sustentáveis como o EcoCycle+.
+
+</details>
