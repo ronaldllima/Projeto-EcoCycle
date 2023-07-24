@@ -211,3 +211,150 @@ Prioridade: Baixa
   
 </details>
 
+## Gerenciamento de Tempo:
+<details>
+
+Análise de Requisitos (Duração: 2 semanas)
+Sequência: Essa atividade é realizada no início do projeto, antes do planejamento detalhado.
+Profissionais envolvidos: Analistas de Negócios, Stakeholders
+
+
+Planejamento do Projeto (Duração: 1 semana)
+Sequência: Após a conclusão da análise de requisitos, inicia-se o planejamento do projeto.
+Profissionais envolvidos: Gerente de Projeto, Equipe de Desenvolvimento, Analistas de Negócios
+
+
+Design e Prototipagem do Sistema (Duração: 3 semanas)
+Sequência: O design e prototipagem ocorrem após a definição do escopo e requisitos.
+Profissionais envolvidos: Designers de UX/UI, Desenvolvedores Front-end
+
+Desenvolvimento do Sistema (Duração: 12 semanas)
+Sequência: Após a aprovação do design, inicia-se o desenvolvimento do sistema.
+Profissionais envolvidos: Desenvolvedores Full-stack, Desenvolvedores Back-end
+
+
+Testes e Depuração (Duração: 4 semanas)
+Sequência: Após a conclusão do desenvolvimento, os testes e depuração são realizados.
+Profissionais envolvidos: Equipe de Controle de Qualidade, Desenvolvedores
+
+Implementação e Integração (Duração: 2 semanas)
+Sequência: Após os testes, a implementação e integração do sistema ocorrem.
+Profissionais envolvidos: Equipe de Desenvolvimento, Analistas de Negócios
+
+Treinamento e Capacitação (Duração: 1 semana)
+Sequência: O treinamento ocorre antes do lançamento oficial do sistema.
+Profissionais envolvidos: Equipe de Desenvolvimento, Treinadores
+
+Lançamento e Divulgação (Duração: 1 semana)
+Sequência: Após o treinamento, ocorre o lançamento e divulgação do EcoCycle+.
+Profissionais envolvidos: Equipe de Marketing, Gerente de Projeto
+
+Monitoramento e Suporte (Contínuo)
+Sequência: Após o lançamento, o monitoramento e suporte são contínuos.
+Profissionais envolvidos: Equipe de Suporte, Equipe de Desenvolvimento
+  
+</details>
+
+## Gerenciamento do Custo do Projeto:
+<details>
+
+Desenvolvimento de Software:
+Contratação de uma equipe de desenvolvimento de software (full-stack, front-end e back-end): $100.000
+
+Design e Prototipagem:
+Serviços de design de interfaces gráficas e experiência do usuário (UX/UI): $30.000
+
+Infraestrutura e Hospedagem:
+Aquisição de servidores e infraestrutura de hospedagem em nuvem: $20.000
+
+Testes e Controle de Qualidade:
+Contratação de uma equipe de controle de qualidade para testes do sistema: $15.000
+
+Treinamento e Capacitação:
+Treinamento da equipe de suporte e capacitação de parceiros de coleta: $10.000
+
+Marketing e Divulgação:
+Campanhas de lançamento e divulgação do EcoCycle+: $25.000
+
+Licenças de Software e Ferramentas:
+Aquisição de licenças de software e ferramentas de desenvolvimento: $5.000
+
+Gerenciamento do Projeto:
+Recursos alocados para a gestão e coordenação do projeto: $15.000
+
+Suporte e Manutenção:
+Custos para a equipe de suporte e manutenção contínua do sistema: $10.000 (por ano)
+
+Total Estimado: $230.000
+  
+</details>
+
+## Gerenciamento de Pessoas do Projeto:
+<details>
+
+Usuários Finais:
+Indivíduos e empresas utilizarão o sistema para realizar o descarte e a reciclagem de produtos eletrônicos. São os principais beneficiários do sistema.
+
+Equipe de Desenvolvimento:
+Desenvolvedores de software, engenheiros de software, designers de UX/UI e analistas de sistemas que trabalharão para criar e aprimorar o sistema EcoCycle+.
+
+Gerente de Projeto:
+Responsável pelo planejamento, coordenação e execução do projeto EcoCycle+. Ele/ela garante que o projeto seja concluído dentro do prazo e do orçamento estabelecidos, além de coordenar as atividades das diferentes equipes envolvidas.
+
+Equipe de Suporte Técnico:
+Profissionais encarregados de fornecer suporte técnico aos usuários, ajudando a solucionar problemas, responder a dúvidas e garantir uma experiência positiva para os usuários do sistema.
+
+Equipe de Marketing e Comunicação:
+Responsáveis por desenvolver e executar estratégias de marketing para divulgar o EcoCycle+ e aumentar sua adoção. Eles promovem o sistema em diferentes canais e trabalham para conscientizar o público sobre a importância da reciclagem eletrônica.
+
+Parceiros de Coleta e Reciclagem:
+Representantes das empresas de coleta de resíduos eletrônicos e centros de reciclagem que colaboram com o EcoCycle+. Eles atuam na coleta, transporte e tratamento adequado dos resíduos eletrônicos.
+
+Equipe de Controle de Qualidade:
+Responsável por garantir que o sistema atenda aos padrões de qualidade e funcione conforme o esperado. Eles realizam testes e revisões para identificar e corrigir possíveis falhas.
+
+Investidores e Patrocinadores:
+Pessoas físicas ou jurídicas que forneçam recursos financeiros para o desenvolvimento e operação contínua do sistema.
+
+Administradores e Gestores:
+Profissionais responsáveis por administrar e gerenciar a operação e manutenção do sistema, garantindo sua disponibilidade e eficiência.
+
+Equipe de Conscientização Ambiental:
+Profissionais encarregados de promover a conscientização ambiental e educar os usuários sobre a importância da reciclagem e da sustentabilidade.
+
+</details>
+
+## Gerenciamento dos Riscos do Projeto:
+<details>
+
+### Risco Tecnológico:<br>
+Dificuldades técnicas podem surgir durante o desenvolvimento do sistema, como incompatibilidade de tecnologias, problemas de integração ou falhas na infraestrutura.<br>
+**Impacto Potencial**: Atrasos no desenvolvimento, aumento dos custos e comprometimento da qualidade do sistema.<br>
+**Medidas de Mitigação**: Realizar uma análise detalhada dos requisitos técnicos antes do início do projeto, envolver especialistas em tecnologia e realizar testes rigorosos durante o desenvolvimento.
+
+Risco de Segurança:<br>
+Vulnerabilidades de segurança no sistema podem permitir acesso não autorizado, vazamento de informações confidenciais ou ataques cibernéticos.<br>
+**Impacto Potencial**: Danos à reputação da plataforma, violação da privacidade dos usuários e possíveis litígios legais.<br>
+**Medidas de Mitigação**: Implementar práticas de segurança cibernética robustas, realizar auditorias de segurança e manter-se atualizado sobre as melhores práticas de proteção de dados.
+
+Risco de Adoção:<br>
+Baixa aceitação por parte dos usuários e empresas, resultando em baixo engajamento com a plataforma e baixo volume de coletas.<br>
+**Impacto Potencial**: Redução do impacto ambiental esperado, baixo retorno do investimento e inviabilidade do projeto.<br>
+**Medidas de Mitigação**: Realizar pesquisas de mercado para entender as necessidades dos usuários, desenvolver uma interface intuitiva e promover campanhas de conscientização sobre a importância da reciclagem.
+
+Risco de Parcerias:<br>
+Possíveis dificuldades em estabelecer parcerias com empresas de coleta de resíduos eletrônicos ou órgãos governamentais.<br>
+**Impacto Potencial**: Restrição do alcance do projeto, falta de pontos de coleta e dificuldade em garantir a reciclagem adequada.<br>
+**Medidas de Mitigação**: Investir em networking com empresas e instituições, oferecer incentivos para parcerias e apresentar os benefícios mútuos da colaboração.
+
+Risco Financeiro:<br>
+Aumento dos custos de desenvolvimento, infraestrutura e operação, ultrapassando o orçamento previsto.<br>
+**Impacto Potencial**: Restrição de recursos, possível inviabilidade financeira do projeto e redução da qualidade do sistema.<br>
+**Medidas de Mitigação**: Realizar uma estimativa financeira detalhada, revisar regularmente o orçamento, considerar alternativas de financiamento e planejar contingências.
+
+Risco de Concorrência:<br>
+Descrição: Possibilidade de surgimento de outros sistemas ou soluções concorrentes no mercado.<br>
+**Impacto Potencial**: Redução da participação de mercado, necessidade de diferenciação e aumento da pressão para inovação.<br>
+**Medidas de Mitigação**: Acompanhar o mercado, identificar pontos fortes e fracos da concorrência, e buscar constantemente inovar e melhorar a plataforma.
+  
+</details>
