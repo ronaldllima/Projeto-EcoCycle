@@ -1,9 +1,13 @@
 # Projeto-EcoCycle
 
 ![EcoCycle](ecoCycle.png)
-Sistema Web de apoio a coleta e reciclagem de produtos eletrônicos
+<div align="center">
+  Sistema Web de apoio a coleta e reciclagem de produtos eletrônicos
+</div>
 
 # Apresentação
+<details>
+
 O EcoCycle+ é muito mais do que um sistema web de coleta e reciclagem de produtos eletrônicos; é uma poderosa plataforma que nos impulsiona rumo a um futuro mais verde e sustentável. Em um mundo onde a preservação do meio ambiente tornou-se uma prioridade inegociável, nossa missão é proporcionar uma solução inovadora para enfrentar o desafio crescente do descarte inadequado de resíduos eletrônicos.
 Ao longo dos anos, testemunhamos o impacto negativo do descarte irresponsável de produtos eletrônicos: poluição do solo, contaminação de rios e danos à saúde pública. Reconhecendo a urgência dessa questão, o EcoCycle+ nasceu para ser parte da mudança. Nossa visão é construir um mundo em que a reciclagem e o reaproveitamento de materiais se tornem parte intrínseca da nossa cultura.
 O que nos diferencia é o compromisso com a simplicidade e a eficiência. O EcoCycle+ foi projetado para ser intuitivo e acessível a todos, desde indivíduos que desejam descartar seus dispositivos eletrônicos antigos até empresas que buscam adotar práticas sustentáveis. Com apenas alguns cliques, nossos usuários podem localizar pontos de coleta próximos, aprender sobre os produtos aceitos e seus processos de reciclagem, e acompanhar o impacto positivo de suas ações no meio ambiente.
@@ -12,6 +16,9 @@ Contamos com uma equipe dedicada e engajada que trabalha incansavelmente para ap
 Ao escolher o EcoCycle+, você não apenas contribui para a preservação do meio ambiente, mas também se torna um agente ativo de mudança. Juntos, podemos criar um mundo onde a coleta e reciclagem de produtos eletrônicos sejam práticas comuns e essenciais. Vamos caminhar juntos rumo a um futuro mais limpo, sustentável e promissor.
 Seja bem-vindo ao EcoCycle+ - onde sustentabilidade, inovação e consciência ambiental se encontram para moldar um mundo melhor para as gerações futuras. Junte-se a nós nessa jornada e faça parte dessa revolução verde!
 EcoCycle+: Contribuindo para um Mundo Mais Sustentável!
+
+</details>
+
 
 [Canvas](ProjectModelCanvas-complete.pdf)
 
