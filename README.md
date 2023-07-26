@@ -11,6 +11,7 @@ Ao escolher o EcoCycle+, você não apenas contribui para a preservação do mei
 Seja bem-vindo ao EcoCycle+ - onde sustentabilidade, inovação e consciência ambiental se encontram para moldar um mundo melhor para as gerações futuras. Junte-se a nós nessa jornada e faça parte dessa revolução verde!
 EcoCycle+: Contribuindo para um Mundo Mais Sustentável!
 
+[Canvas](ProjectModelCanvas-complete.pdf)
 
 ## Declaração de Escopo do Projeto 
 <details>
