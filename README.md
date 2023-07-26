@@ -1,4 +1,6 @@
 # Projeto-EcoCycle
+
+![EcoCycle](ecoCycle.png)
 Sistema Web de apoio a coleta e reciclagem de produtos eletrônicos
 
 # Apresentação
