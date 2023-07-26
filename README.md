@@ -5,6 +5,8 @@
   Sistema Web de apoio a coleta e reciclagem de produtos eletrônicos
 </div>
 
+[Canvas](ProjectModelCanvas-complete.pdf)
+
 # Apresentação
 <details>
 
@@ -18,9 +20,6 @@ Seja bem-vindo ao EcoCycle+ - onde sustentabilidade, inovação e consciência a
 EcoCycle+: Contribuindo para um Mundo Mais Sustentável!
 
 </details>
-
-
-[Canvas](ProjectModelCanvas-complete.pdf)
 
 ## Declaração de Escopo do Projeto 
 <details>
