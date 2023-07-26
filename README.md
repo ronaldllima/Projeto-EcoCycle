@@ -26,7 +26,9 @@ EcoCycle+: Contribuindo para um Mundo Mais Sustentável!
 
 ## Declaração de Escopo do Projeto 
 <details>
+
 ### Título: EcoCycle+
+
 Descrição: O projeto consiste na criação de um sistema web que permita a coleta e reciclagem de produtos eletrônicos de forma segura e sustentável. O sistema será acessível por meio de um site, onde os usuários poderão se cadastrar, informar dados dos produtos eletrônicos que desejam descartar, agendar a coleta e acompanhar o status do processo de coleta e reciclagem.
 
 Patrocinador (Cliente): Empresa de reciclagem de produtos eletrônicos "ReciclaTech Ltda."
