@@ -1,4 +1,7 @@
-# Projeto-EcoCycle
+
+<div align="center">
+  <h1>Projeto-EcoCycle</h1> 
+</div>
 
 ![EcoCycle](ecoCycle.png)
 <div align="center">
