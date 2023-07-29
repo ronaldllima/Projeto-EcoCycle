@@ -8,7 +8,13 @@
   Sistema Web de apoio a coleta e reciclagem de produtos eletrônicos
 </div>
 
-[Canvas](ProjectModelCanvas-complete.pdf)
+##  Canvas
+<details>
+  
+  ![Canvas](ProjectModelCanvas-complete_page-0001.jpg)
+  
+</details>
+
 
 # Apresentação
 <details>
