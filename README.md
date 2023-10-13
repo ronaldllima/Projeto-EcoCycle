@@ -11,7 +11,7 @@
 ##  Canvas
 <details>
   
-  ![Canvas](ProjectModelCanvas-complete_page-0001.jpg)
+  ![Canvas](canvas.jpg)
   
 </details>
 
