@@ -11,7 +11,7 @@
 ##  Canvas
 <details>
   
-  ![Canvas](canvas.jpg)
+  ![Canvas](canvas.png)
   
 </details>
 
