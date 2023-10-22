@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Projeto-EcoCycle</h1> 
+  <h1>EcoCycle</h1> 
 </div>
 
 <div align="center">
