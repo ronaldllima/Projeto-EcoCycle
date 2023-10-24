@@ -10,7 +10,9 @@
 
 ##  Canvas
 <details>
+  
   ![Canvas](canvas.png) 
+  
 </details>
 
 <div align="left">
