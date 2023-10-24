@@ -8,6 +8,11 @@
   Sistema Web de apoio a coleta e reciclagem de resíduos eletrônicos
 </div>
 
+##  Canvas
+<details>
+  ![Canvas](canvas.png) 
+</details>
+
 <div align="left">
   <h1>Descrição</h1>
   <p>O "Sistema Web de Apoio à Coleta e Reciclagem de Resíduos Eletrônicos" é uma plataforma inovadora concebida para simplificar e promover a coleta e reciclagem responsável de produtos eletrônicos. Este sistema oferece uma gama de funcionalidades essenciais, incluindo: 
@@ -37,13 +42,15 @@
   </ul>
 </div>
 
+<div>
+<h1>Justificativa</h1>
+  <p>
+    A criação do EcoCycle é fundamentada na necessidade premente de enfrentar o impacto ambiental dos resíduos eletrônicos e promover práticas sustentáveis. Com a crescente geração de dispositivos obsoletos, torna-se crucial proporcionar uma solução eficaz para a reciclagem e reutilização desses produtos. O "EcoCycle" justifica-se ao simplificar esse processo, incentivando a conscientização ambiental, reduzindo o impacto negativo no meio ambiente e contribuindo para um futuro mais sustentável. Seu papel é de extrema importância na busca por práticas responsáveis na gestão de resíduos eletrônicos.
+  </p>
+</div>
 
-##  Canvas
-<details>
-  
-  ![Canvas](canvas.png)
-  
-</details>
+
+
 
 <!---
 # Apresentação
