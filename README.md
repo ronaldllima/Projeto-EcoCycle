@@ -1,15 +1,30 @@
 
 <div align="center">
-  <h1>EcoCycle</h1> 
-</div>
-
-<div align="center">
   <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/ecoCycle.png">
 </div>
 
-<div align="center">
-  Sistema Web de apoio a coleta e reciclagem de produtos eletrônicos
+<div align="left">
+  <h1>EcoCycle</h1> 
+  Sistema Web de apoio a coleta e reciclagem de resíduos eletrônicos
 </div>
+
+<div align="left">
+  <h1>Descrição</h1>
+  <p>O Sistema Web de Apoio à Coleta e Reciclagem de Resíduos Eletrônicos EcoCycle é uma plataforma web inovadora dedicada a facilitar a coleta e reciclagem responsável de produtos     eletrônicos. Com uma abordagem focada na sustentabilidade e eficiência, o sistema proporciona uma maneira conveniente para que os cidadãos e organizações contribuam para a redução do impacto ambiental da gestão de resíduos eletrônicos. Através de funcionalidades intuitivas:  
+</p>
+  <ul>
+    <li>
+      os usuários podem agendar a coleta de seus dispositivos obsoletos;
+    </li>
+    <li>
+      rastrear o processo de reciclagem;
+    </li>
+    <li>
+      acompanhar o impacto positivo de suas ações;
+    </li>
+  </ul>
+</div>
+
 
 ##  Canvas
 <details>
@@ -18,7 +33,7 @@
   
 </details>
 
-
+<!---
 # Apresentação
 <details>
 
@@ -479,3 +494,4 @@ Conformidade com Padrões de Desenvolvimento:
 Adesão a padrões de desenvolvimento de software para garantir a qualidade do código e facilitar a manutenção futura.
 
 </details>
+-->
