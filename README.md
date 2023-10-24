@@ -10,17 +10,29 @@
 
 <div align="left">
   <h1>Descrição</h1>
-  <p>O Sistema Web de Apoio à Coleta e Reciclagem de Resíduos Eletrônicos EcoCycle é uma plataforma web inovadora dedicada a facilitar a coleta e reciclagem responsável de produtos     eletrônicos. Com uma abordagem focada na sustentabilidade e eficiência, o sistema proporciona uma maneira conveniente para que os cidadãos e organizações contribuam para a redução do impacto ambiental da gestão de resíduos eletrônicos. Através de funcionalidades intuitivas:  
+  <p>O "Sistema Web de Apoio à Coleta e Reciclagem de Resíduos Eletrônicos" é uma plataforma inovadora concebida para simplificar e promover a coleta e reciclagem responsável de produtos eletrônicos. Este sistema oferece uma gama de funcionalidades essenciais, incluindo: 
 </p>
   <ul>
     <li>
-      os usuários podem agendar a coleta de seus dispositivos obsoletos;
+      Cadastro de Usuários e Empresas: O sistema permite que indivíduos e empresas se cadastrem facilmente, criando perfis personalizados. Os usuários podem fornecer informações de contato, endereço e detalhes sobre os tipos de resíduos eletrônicos que desejam reciclar.
     </li>
     <li>
-      rastrear o processo de reciclagem;
+     Agendamento de Coleta: Uma das principais funcionalidades do sistema é a capacidade de agendar a coleta de resíduos eletrônicos. Os usuários podem selecionar datas e horários convenientes para a retirada de seus dispositivos obsoletos.
     </li>
     <li>
-      acompanhar o impacto positivo de suas ações;
+      Acompanhamento da Coleta : Os usuários podem acompanhar em o status da coleta agendada. Isso inclui informações sobre a rota da equipe de coleta, horário estimado de chegada e confirmação de coleta bem-sucedida.
+    </li>
+    <li>
+      Gestão de Resíduos Eletrônicos: O sistema fornece orientações sobre como preparar e embalar adequadamente os dispositivos eletrônicos para reciclagem. Isso garante que o processo de reciclagem seja eficiente e ecologicamente correto.
+    </li>
+    <li>
+      Gestão de Contas: Os usuários podem gerenciar suas informações de conta, visualizar histórico de coletas, agendar coletas futuras e atualizar suas preferências.
+    </li>
+    <li>
+      Informações Educacionais: O sistema fornece recursos educacionais sobre a importância da reciclagem de resíduos eletrônicos e práticas sustentáveis.
+    </li>
+    <li>
+      Suporte ao Cliente: Uma função de suporte ao cliente está disponível para auxiliar os usuários em suas dúvidas e preocupações.
     </li>
   </ul>
 </div>
