@@ -14,25 +14,25 @@
 </p>
   <ul>
     <li>
-      Cadastro de Usuários e Empresas: O sistema permite que indivíduos e empresas se cadastrem facilmente, criando perfis personalizados. Os usuários podem fornecer informações de contato, endereço e detalhes sobre os tipos de resíduos eletrônicos que desejam reciclar.
+      <b>Cadastro de Usuários e Empresas:</b> O sistema permite que indivíduos e empresas se cadastrem facilmente, criando perfis personalizados. Os usuários podem fornecer informações de contato, endereço e detalhes sobre os tipos de resíduos eletrônicos que desejam reciclar.
     </li>
     <li>
-     Agendamento de Coleta: Uma das principais funcionalidades do sistema é a capacidade de agendar a coleta de resíduos eletrônicos. Os usuários podem selecionar datas e horários convenientes para a retirada de seus dispositivos obsoletos.
+     <b>Agendamento de Coleta:</b> Uma das principais funcionalidades do sistema é a capacidade de agendar a coleta de resíduos eletrônicos. Os usuários podem selecionar datas e horários convenientes para a retirada de seus dispositivos obsoletos.
     </li>
     <li>
-      Acompanhamento da Coleta : Os usuários podem acompanhar em o status da coleta agendada. Isso inclui informações sobre a rota da equipe de coleta, horário estimado de chegada e confirmação de coleta bem-sucedida.
+      <b>Acompanhamento da Coleta:</b> Os usuários podem acompanhar em o status da coleta agendada. Isso inclui informações sobre a rota da equipe de coleta, horário estimado de chegada e confirmação de coleta bem-sucedida.
     </li>
     <li>
-      Gestão de Resíduos Eletrônicos: O sistema fornece orientações sobre como preparar e embalar adequadamente os dispositivos eletrônicos para reciclagem. Isso garante que o processo de reciclagem seja eficiente e ecologicamente correto.
+      <b>Gestão de Resíduos Eletrônicos:</b> O sistema fornece orientações sobre como preparar e embalar adequadamente os dispositivos eletrônicos para reciclagem. Isso garante que o processo de reciclagem seja eficiente e ecologicamente correto.
     </li>
     <li>
-      Gestão de Contas: Os usuários podem gerenciar suas informações de conta, visualizar histórico de coletas, agendar coletas futuras e atualizar suas preferências.
+      <b>Gestão de Contas:</b> Os usuários podem gerenciar suas informações de conta, visualizar histórico de coletas, agendar coletas futuras e atualizar suas preferências.
     </li>
     <li>
-      Informações Educacionais: O sistema fornece recursos educacionais sobre a importância da reciclagem de resíduos eletrônicos e práticas sustentáveis.
+      <b>Informações Educacionais:</b> O sistema fornece recursos educacionais sobre a importância da reciclagem de resíduos eletrônicos e práticas sustentáveis.
     </li>
     <li>
-      Suporte ao Cliente: Uma função de suporte ao cliente está disponível para auxiliar os usuários em suas dúvidas e preocupações.
+      <b>Suporte ao Cliente:</b> Uma função de suporte ao cliente está disponível para auxiliar os usuários em suas dúvidas e preocupações.
     </li>
   </ul>
 </div>
