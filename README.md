@@ -51,6 +51,25 @@
   </p>
 </div>
 
+## Governança ambiental, social e corporativa "ESG"
+<details>
+  
+### Ambiental (E - Environmental):
+Eficiência Energética: Certifique-se de que o sistema seja desenvolvido de forma eficiente em termos de energia, minimizando o consumo de recursos e reduzindo a pegada de carbono.
+Impacto Ambiental: Avalie e minimize o impacto ambiental do sistema, especialmente em relação ao consumo de energia e ao uso de materiais.
+Reciclagem Eletrônica: Promova ativamente a reciclagem eletrônica entre os usuários, destacando os benefícios ambientais da ação.
+
+### Social (S - Social):
+Inclusão e Acessibilidade: Garanta que o sistema seja acessível a todos, independentemente de suas habilidades, necessidades especiais ou origens culturais.
+Diversidade e Igualdade: Promova uma cultura de diversidade e inclusão em toda a equipe de projeto e em suas práticas de contratação.
+Impacto Social Positivo: Considere como o sistema pode ter um impacto positivo nas comunidades locais e nas partes interessadas.
+
+### Governança (G - Governance):
+Transparência: Mantenha uma comunicação transparente com todas as partes interessadas sobre o progresso do projeto, seus objetivos e seu impacto.
+Ética Empresarial: Garanta que todas as atividades do projeto estejam em conformidade com os mais altos padrões éticos e legais.
+Gestão de Riscos: Implemente uma sólida gestão de riscos que identifique e aborde questões de conformidade, segurança e integridade de dados.
+</details>
+
 
 
 
@@ -141,24 +160,6 @@ A crescente produção de lixo eletrônico tem se tornado um grande problema amb
   
 </details>
 
-## Governança ambiental, social e corporativa "ESG"
-<details>
-  
-### Ambiental (E - Environmental):
-Eficiência Energética: Certifique-se de que o sistema seja desenvolvido de forma eficiente em termos de energia, minimizando o consumo de recursos e reduzindo a pegada de carbono.
-Impacto Ambiental: Avalie e minimize o impacto ambiental do sistema, especialmente em relação ao consumo de energia e ao uso de materiais.
-Reciclagem Eletrônica: Promova ativamente a reciclagem eletrônica entre os usuários, destacando os benefícios ambientais da ação.
-
-### Social (S - Social):
-Inclusão e Acessibilidade: Garanta que o sistema seja acessível a todos, independentemente de suas habilidades, necessidades especiais ou origens culturais.
-Diversidade e Igualdade: Promova uma cultura de diversidade e inclusão em toda a equipe de projeto e em suas práticas de contratação.
-Impacto Social Positivo: Considere como o sistema pode ter um impacto positivo nas comunidades locais e nas partes interessadas.
-
-### Governança (G - Governance):
-Transparência: Mantenha uma comunicação transparente com todas as partes interessadas sobre o progresso do projeto, seus objetivos e seu impacto.
-Ética Empresarial: Garanta que todas as atividades do projeto estejam em conformidade com os mais altos padrões éticos e legais.
-Gestão de Riscos: Implemente uma sólida gestão de riscos que identifique e aborde questões de conformidade, segurança e integridade de dados.
-</details>
 
 
 
