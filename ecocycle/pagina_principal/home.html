@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Sistema de Coleta e Reciclagem</title>
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">
+            <img src="informacoes_img/eco-amigavel.png" alt="Logo do Sistema">
+        </div>
+        <nav>
+            <ul class="menu">
+                <li onclick="changeTab('inicio')">Início</li>
+                <li onclick="changeTab('agendamento')">Agendamento de Coleta</li>
+                <li onclick="changeTab('educacional')">Informações Educacionais</li>
+                <li onclick="changeTab('suporte')">Suporte ao Cliente</li>
+            </ul>
+        </nav>
+        <div class="user-icon">
+            <img src="informacoes_img/homem-usuario.png" alt="user">
+        </div>
+    </header>
+
+    <div class="content">
+        <div id="inicio" class="tab-content active">
+            <h2>Agendamentos Pendentes</h2>
+            <!-- Conteúdo da aba "Inicio" aqui -->
+        </div>
+        <div id="agendamento" class="tab-content">
+            <h2>Agendar Coleta</h2>
+            <!-- Conteúdo da aba "Agendamento de Coleta" aqui -->
+        </div>
+        <div id="educacional" class="tab-content">
+            <h2>Recursos Educacionais</h2>
+            <!-- Conteúdo da aba "Informações Educacionais" aqui -->
+        </div>
+        <div id="suporte" class="tab-content">
+            <h2>Suporte ao Cliente</h2>
+            <!-- Conteúdo da aba "Suporte ao Cliente" aqui -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
