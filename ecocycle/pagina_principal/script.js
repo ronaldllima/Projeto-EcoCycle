@@ -40,22 +40,6 @@ function changeTab(tabId) {
         document.getElementById(tabId).classList.add('active');
     }
 
-    window.onload = function () {
-        loadContent('inicio.html', 'inicio');
-    };
-    
-    // Função para carregar o conteúdo da página em uma determinada aba
-    function loadContent(page, tabId) {
-        var xhr = new XMLHttpRequest();
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                document.getElementById(tabId).innerHTML = xhr.responseText;
-            }
-        };
-        xhr.open('GET', page, true);
-        xhr.send();
-    }
-
     // Atualiza a classe 'active' no menu
     var menuItems = document.querySelectorAll('.menu li');
     menuItems.forEach(function (item) {
@@ -63,4 +47,20 @@ function changeTab(tabId) {
     });
 
     document.querySelector('.menu li[data-tab="' + tabId + '"]').classList.add('active');
+}
+
+window.onload = function () {
+    loadContent('inicio.html', 'inicio');
+};
+
+// Função para carregar o conteúdo da página em uma determinada aba
+function loadContent(page, tabId) {
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            document.getElementById(tabId).innerHTML = xhr.responseText;
+        }
+    };
+    xhr.open('GET', page, true);
+    xhr.send();
 }
