@@ -1,0 +1,67 @@
+/* Reset de estilos para garantir consistência em diferentes navegadores */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo para o corpo da página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+}
+
+/* Estilo para a barra de menu */
+header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Estilo para o logotipo */
+.logo-container img {
+    max-width: 100px; /* Ajuste conforme necessário */
+}
+
+/* Estilo para os botões de login/logout */
+.login-logout-container button {
+    margin-left: 10px;
+    padding: 8px 15px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Estilo para a área de conteúdo */
+#content {
+    padding: 20px;
+}
+
+/* Estilo para as seções específicas das páginas */
+.inicio, .agendamento, .informacao, .suporte {
+    margin-bottom: 30px;
+}
+
+h1{
+    font-size: 50px;
+}
+/* Adicione mais estilos conforme necessário para personalizar a aparência do seu site */

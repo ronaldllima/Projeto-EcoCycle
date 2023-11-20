@@ -1,0 +1,20 @@
+/* Estilos para a página de Suporte ao Cliente (suporte.html) */
+
+.suporte {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.suporte h1 {
+    color: #333;
+    font-size: 50px; /* Ajuste o tamanho da fonte conforme necessário */
+}
+
+.suporte p {
+    color: #555;
+    font-size: 16px; /* Ajuste o tamanho da fonte conforme necessário */
+}
+
+/* Adicione mais estilos conforme necessário */
