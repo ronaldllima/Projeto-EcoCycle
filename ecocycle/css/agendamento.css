@@ -1,20 +1,79 @@
-/* Estilos para a página de Agendamento (agendamento.html) */
+/* Estilos para a página de Agendamento (agendamento.css) */
 
-.agendamento {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.agendamento h1 {
+/* body {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
     color: #333;
-    font-size: 50px; /* Ajuste o tamanho da fonte conforme necessário */
+    line-height: 1.6;
+} */
+
+.form-section {
+    text-align: center;
+    padding: 50px 20px;
 }
 
-.agendamento p {
+.form-section h1 {
+    font-size: 42px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.form-section p {
+    font-size: 20px;
     color: #555;
-    font-size: 16px; /* Ajuste o tamanho da fonte conforme necessário */
+    margin-bottom: 40px;
 }
 
-/* Adicione mais estilos conforme necessário */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #333;
+    text-align: left;
+}
+
+form input,
+form select,
+form textarea {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #2980b9;
+}
+
+.form-section form {
+    display: grid;
+    gap: 10px; /* Ajuste o valor conforme necessário para controlar o espaçamento vertical entre os itens */
+}
+
+.form-section label {
+    margin-bottom: 5px; /* Ajuste o valor conforme necessário para controlar o espaçamento entre as labels e os inputs/select/textarea */
+}
+
+.form-section textarea,
+.form-section select,
+.form-section input {
+    margin-bottom: 10px; /* Ajuste o valor conforme necessário para controlar o espaçamento entre os inputs/select/textarea */
+}

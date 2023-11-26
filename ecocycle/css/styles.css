@@ -1,24 +1,20 @@
 /* Reset de estilos para garantir consistência em diferentes navegadores */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-/* Estilo para o corpo da página */
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f5f5f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
 }
 
-/* Estilo para a barra de menu */
 header {
-    background-color: #333;
+    background-color: #3498db;
     color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
 }
 
 nav ul {
@@ -34,22 +30,34 @@ nav ul li a {
     text-decoration: none;
     color: #fff;
     font-weight: bold;
+    font-size: 35px;
+    transition: color 0.3s ease;
 }
 
-/* Estilo para o logotipo */
+nav ul li a:hover {
+    color: rgb(66, 160, 108);
+}
+
 .logo-container img {
-    max-width: 100px; /* Ajuste conforme necessário */
+    max-width: 100px;
 }
 
-/* Estilo para os botões de login/logout */
 .login-logout-container button {
     margin-left: 10px;
     padding: 8px 15px;
-    background-color: #4caf50;
+    border-radius: 5px;
+    background-color: #2ecc71;
     color: #fff;
     border: none;
     cursor: pointer;
+    font-size: 30px;
+    transition: background-color 0.3s ease;
 }
+
+.login-logout-container button:hover {
+    background-color: #27ae60;
+}
+
 
 /* Estilo para a área de conteúdo */
 #content {
@@ -61,7 +69,4 @@ nav ul li a {
     margin-bottom: 30px;
 }
 
-h1{
-    font-size: 50px;
-}
-/* Adicione mais estilos conforme necessário para personalizar a aparência do seu site */
+/* Adicione mais estilos conforme necessário */

@@ -1,21 +1,143 @@
 /* Estilos para a página de Início (inicio.html) */
 
-.inicio {
-    background-color: #fff;
-    padding: 20px;
+.welcome-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.welcome-section h1 {
+    font-size: 40px;
+    color: #333;
+}
+
+.welcome-section p {
+    font-size: 25px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.services-section {
+    text-align: center; /* Centraliza o texto dentro do contêiner */
+}
+
+.services-section h2 {
+    width: 100%; /* Garante que o título ocupe a largura total do contêiner */
+    font-size: 35px;
+}
+
+.service-card {
+    display: inline-block; /* Faz com que os cards de serviço fiquem um ao lado do outro */
+    margin: 10px;
+    text-align: center;
+}
+
+.service-card {
+    background-color: #3498db;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
-.inicio h1 {
+.service-card h3 {
+    font-size: 25px;
     color: #333;
-    font-size: 50px; /* Ajuste o tamanho da fonte conforme necessário */
+    margin-bottom: 10px;
 }
 
-.inicio p {
+.service-card p {
+    font-size: 20px;
     color: #555;
-    font-size: 16px; /* Ajuste o tamanho da fonte conforme necessário */
 }
 
 
-/* Adicione mais estilos conforme necessário */
+
+/*
+ .services-section {
+    background-color: #3c9944;
+    padding: 30px 0;
+    text-align: center;
+    align-items: self-end;
+}
+
+.services-section h2 {
+    font-size: 35px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.services-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    gap: 10px; 
+}
+
+.service-card {
+    border: 1px solid #ccc; 
+    padding: 10px;
+}
+
+ */
+
+.about-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.about-section h2 {
+    font-size: 35px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about-section p {
+    font-size: 20px;
+    color: #555;
+}
+
+.testimonials-section {
+    background-color: #3498db;
+    border-radius: 5px;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centraliza os cards na horizontal */
+}
+
+.testimonials-section h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+    width: 100%; /* Garante que o título ocupa a largura total */
+}
+
+.testimonial-card {
+    background-color: #2c3e50;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    margin: 0 10px 20px 10px; /* Adiciona espaçamento entre os cards */
+    width: calc(50% - 20px); /* Calcula a largura dos cards considerando a margem */
+    box-sizing: border-box; /* Inclui padding e borda na largura total */
+}
+
+.testimonial-card p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.testimonial-card .testimonial-author {
+    font-size: 18px;
+    color: #ecf0f1;
+    margin-top: 10px;
+}
+
+/* Estilo adicional para tornar responsivo em telas pequenas */
+@media screen and (max-width: 600px) {
+    .testimonial-card {
+        width: calc(100% - 20px); /* Cards ocupam a largura total em telas pequenas */
+    }
+}
+
