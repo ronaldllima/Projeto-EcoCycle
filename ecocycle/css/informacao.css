@@ -17,4 +17,71 @@
     font-size: 16px; /* Ajuste o tamanho da fonte conforme necessário */
 }
 
-/* Adicione mais estilos conforme necessário */
+
+.informacao {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.informacao h1, .informacao h2 {
+    color: #3498db;
+}
+
+.informacao h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.informacao h2 {
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.informacao p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.informacao ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.informacao iframe {
+    width: 48%;
+    height: 315px;
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.informacao a, .informacao button {
+    transition: color 0.3s ease-in-out;
+}
+
+.informacao a:hover, .informacao button:hover {
+    color: #3498db;
+}
+
+@media screen and (max-width: 600px) {
+    .informacao {
+        padding: 15px;
+    }
+
+    .informacao h1 {
+        font-size: 28px;
+    }
+
+    .informacao h2 {
+        font-size: 24px;
+    }
+
+    .informacao p {
+        font-size: 16px;
+    }
+}

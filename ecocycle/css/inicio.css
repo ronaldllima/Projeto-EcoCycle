@@ -1,4 +1,9 @@
-/* Estilos para a página de Início (inicio.html) */
+.inicio{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
 .welcome-section {
     text-align: center;
@@ -6,12 +11,12 @@
 }
 
 .welcome-section h1 {
-    font-size: 40px;
+    font-size: 30px;
     color: #333;
 }
 
 .welcome-section p {
-    font-size: 25px;
+    font-size: 20px;
     color: #555;
     margin-bottom: 20px;
 }
@@ -22,7 +27,7 @@
 
 .services-section h2 {
     width: 100%; /* Garante que o título ocupe a largura total do contêiner */
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .service-card {
@@ -40,44 +45,15 @@
 }
 
 .service-card h3 {
-    font-size: 25px;
+    font-size: 20px;
     color: #333;
     margin-bottom: 10px;
 }
 
 .service-card p {
-    font-size: 20px;
+    font-size: 15px;
     color: #555;
 }
-
-
-
-/*
- .services-section {
-    background-color: #3c9944;
-    padding: 30px 0;
-    text-align: center;
-    align-items: self-end;
-}
-
-.services-section h2 {
-    font-size: 35px;
-    color: #333;
-    margin-bottom: 30px;
-}
-
-.services-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
-    gap: 10px; 
-}
-
-.service-card {
-    border: 1px solid #ccc; 
-    padding: 10px;
-}
-
- */
 
 .about-section {
     text-align: center;
@@ -85,7 +61,7 @@
 }
 
 .about-section h2 {
-    font-size: 35px;
+    font-size: 30px;
     color: #333;
     margin-bottom: 20px;
 }
@@ -129,7 +105,7 @@
 }
 
 .testimonial-card .testimonial-author {
-    font-size: 18px;
+    font-size: 15px;
     color: #ecf0f1;
     margin-top: 10px;
 }

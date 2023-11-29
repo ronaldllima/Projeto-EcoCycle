@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+    
     // Obter referências aos elementos do DOM
     const contentContainer = document.getElementById("content");
     const loginBtn = document.getElementById("login-btn");
@@ -34,3 +35,4 @@ document.addEventListener("DOMContentLoaded", function () {
         xhttp.send();
     }
 });
+

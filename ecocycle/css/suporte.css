@@ -1,4 +1,4 @@
-/* Estilos para a página de Suporte ao Cliente (suporte.html) */
+/* 
 
 .suporte {
     background-color: #fff;
@@ -9,12 +9,86 @@
 
 .suporte h1 {
     color: #333;
-    font-size: 50px; /* Ajuste o tamanho da fonte conforme necessário */
-}
+    font-size: 50px; 
 
 .suporte p {
     color: #555;
-    font-size: 16px; /* Ajuste o tamanho da fonte conforme necessário */
-}
+    font-size: 16px; 
+} */
 
 /* Adicione mais estilos conforme necessário */
+
+.suporte {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.suporte h1, .suporte h2 {
+    color: #3498db;
+}
+
+.suporte h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.suporte h2 {
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.suporte p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.suporte ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.suporte li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.suporte button {
+    background-color: #3498db;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.suporte button:hover {
+    background-color: #2980b9;
+}
+
+@media screen and (max-width: 600px) {
+    .suporte {
+        padding: 15px;
+    }
+
+    .suporte h1 {
+        font-size: 28px;
+    }
+
+    .suporte h2 {
+        font-size: 24px;
+    }
+
+    .suporte p {
+        font-size: 16px;
+    }
+
+    .suporte button {
+        font-size: 16px;
+    }
+}

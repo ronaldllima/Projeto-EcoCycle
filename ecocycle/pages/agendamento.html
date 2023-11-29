@@ -1,48 +1,53 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/agendamento.css">
     <title>Agendar Coleta - Meu Site</title>
 </head>
+
 <body>
 
-<!-- Conteúdo da página -->
+    <!-- Conteúdo da página -->
+    <section class="agendamento">
 
-<section class="form-section">
-    <h1>Agendar Coleta</h1>
-    <p>Preencha o formulário abaixo para agendar a coleta de resíduos.</p>
+        <section class="form-section">
+            <h1>Agendar Coleta</h1>
+            <p>Preencha o formulário abaixo para agendar a coleta de resíduos.</p>
 
-    <!-- Formulário de Agendamento -->
-    <form action="#" method="POST">
-        <label for="nome">Nome:</label>
-        <input type="text" id="nome" name="nome" required>
+            <!-- Formulário de Agendamento -->
+            <form action="#" method="POST">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
 
-        <label for="email">E-mail:</label>
-        <input type="email" id="email" name="email" required>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
 
-        <label for="telefone">Telefone:</label>
-        <input type="tel" id="telefone" name="telefone" required>
+                <label for="telefone">Telefone:</label>
+                <input type="tel" id="telefone" name="telefone" required>
 
-        <label for="endereco">Endereço:</label>
-        <textarea id="endereco" name="endereco" rows="4" required></textarea>
+                <label for="endereco">Endereço:</label>
+                <textarea id="endereco" name="endereco" rows="4" required></textarea>
 
-        <label for="tipoResiduo">Tipo de Resíduo:</label>
-        <select id="tipoResiduo" name="tipoResiduo" required>
-            <option value="residuo1">Resíduo 1</option>
-            <option value="residuo2">Resíduo 2</option>
-            <!-- Adicione mais opções conforme necessário -->
-        </select>
-        
-        <label for="quantidade">Quantidade de Itens:</label>
-        <input type="number" id="quantidade" name="quantidade" min="1" required>
+                <label for="tipoResiduo">Tipo de Resíduo:</label>
+                <select id="tipoResiduo" name="tipoResiduo" required>
+                    <option value="residuo1">Computador / Notebook</option>
+                    <option value="residuo2">Smartphone</option>
+                    <option value="residuo3">Bateria</option>
+                </select>
 
-        <button type="submit">Agendar Coleta</button>
-    </form>
-</section>
+                <label for="quantidade">Quantidade de Itens:</label>
+                <input type="number" id="quantidade" name="quantidade" min="1" required>
 
-<!-- Rodapé ou mais conteúdo conforme necessário -->
+                <button type="submit">Agendar Coleta</button>
+            </form>
+        </section>
+    </section>
+
+    <!-- Rodapé ou mais conteúdo conforme necessário -->
 
 </body>
+
 </html>
