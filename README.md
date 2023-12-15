@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/ecoCycle.png">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/imagens-projeto/ecoCycle.png">
 </div>
 
 <div align="left">
@@ -11,7 +11,10 @@
 ##  Canvas
 <details>
   
-  ![Canvas](canvas.png) 
+  <div align="center">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/imagens-projeto/canvas.png">
+  </div>
+ 
   
 </details>
 
