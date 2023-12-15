@@ -26,15 +26,15 @@
     <li>
      <b>Agendamento de Coleta:</b> Uma das principais funcionalidades do sistema é a capacidade de agendar a coleta de resíduos eletrônicos. Os usuários podem selecionar datas e horários convenientes para a retirada de seus dispositivos obsoletos.
     </li>
-    <li>
+    <!-- <li>
       <b>Acompanhamento da Coleta:</b> Os usuários podem acompanhar em o status da coleta agendada. Isso inclui informações sobre a rota da equipe de coleta, horário estimado de chegada e confirmação de coleta bem-sucedida.
-    </li>
+    </li> -->
     <li>
       <b>Gestão de Resíduos Eletrônicos:</b> O sistema fornece orientações sobre como preparar e embalar adequadamente os dispositivos eletrônicos para reciclagem. Isso garante que o processo de reciclagem seja eficiente e ecologicamente correto.
     </li>
-    <li>
+    <!-- <li>
       <b>Gestão de Contas:</b> Os usuários podem gerenciar suas informações de conta, visualizar histórico de coletas, agendar coletas futuras e atualizar suas preferências.
-    </li>
+    </li> -->
     <li>
       <b>Informações Educacionais:</b> O sistema fornece recursos educacionais sobre a importância da reciclagem de resíduos eletrônicos e práticas sustentáveis.
     </li>

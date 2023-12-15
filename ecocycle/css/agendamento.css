@@ -27,8 +27,11 @@
 } */
 
 .form-section {
+    width: 100%;
+    height: 100%;
     text-align: center;
     padding: 50px 20px;
+    height: min-content;
 }
 
 .form-section h1 {

@@ -7,6 +7,12 @@ body {
     line-height: 1.6;
 }
 
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 header {
     background-color: #3498db;
     color: #fff;
@@ -54,6 +60,22 @@ nav ul li a:hover {
     transition: background-color 0.3s ease;
 }
 
+.login-logout-container {
+    display: flex;
+    align-items: center;
+    /* Centralizar verticalmente */
+}
+
+#logout-btn {
+    margin-left: 10px;
+    /* Ajustar a margem entre a imagem e o botão conforme necessário */
+}
+
+.login-logout-container img {
+    width: 30px;
+    height: 30px;
+}
+
 .login-logout-container button:hover {
     background-color: #27ae60;
 }
@@ -65,9 +87,11 @@ nav ul li a:hover {
 }
 
 /* Estilo para as seções específicas das páginas */
-.inicio, .agendamento, .informacao, .suporte {
+.inicio,
+.agendamento,
+.informacao,
+.suporte {
     margin-bottom: 30px;
 }
 
 /* Adicione mais estilos conforme necessário */
-
