@@ -140,3 +140,27 @@ Gestão de Riscos: Implemente uma sólida gestão de riscos que identifique e ab
     </ol>
 </ol>
 
+# Prototipagem do Sistema
+
+## Página Inicial
+<div align="center">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/screenshots/1.1%20menu_booasvindas_servicos.png">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/screenshots/1.2%20sobre_avaliacoes.png">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/screenshots/2%20serviscos.png">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/screenshots/3%20sobre_avaliacoes.png">
+</div>
+
+## Página Agendamento
+<div align="center">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/screenshots/4%20agendamento.png">
+</div>
+
+## Página Informações educacionais
+<div align="center">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/screenshots/5%20informacoes_educacionais.png">
+</div>
+
+## Página Suporte ao cliente
+<div align="center">
+  <img src="https://github.com/ronaldllima/Projeto-EcoCycle/blob/main/screenshots/6%20sobre.png">
+</div>
