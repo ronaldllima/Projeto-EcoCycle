@@ -12,12 +12,6 @@
     font-size: 50px; /* Ajuste o tamanho da fonte conforme necessário */
 }
 
-.informacao p {
-    color: #555;
-    font-size: 16px; /* Ajuste o tamanho da fonte conforme necessário */
-}
-
-
 .informacao {
     background-color: #fff;
     padding: 20px;
@@ -44,6 +38,8 @@
     font-size: 18px;
     line-height: 1.5;
     margin-bottom: 15px;
+    color: #555;
+    font-size: 16px;
 }
 
 .informacao ul {
@@ -84,4 +80,22 @@
     .informacao p {
         font-size: 16px;
     }
+}
+
+.imagens-flex {
+    display: flex;
+    flex-wrap: wrap; /* Permite que as imagens se movam para a próxima linha quando não há espaço suficiente */
+    justify-content: space-around;
+    align-items: center;
+}
+
+.imagens-flex-img {
+    text-align: center;
+    flex: 0 0 30%; /* Define a largura das imagens, ocupando 30% da largura total da linha */
+    margin: 10px; /* Adiciona margem entre as imagens para melhor espaçamento */
+}
+
+.imagens-flex-img img {
+    max-width: 100%; /* Ajusta a largura máxima da imagem para prevenir que ela ultrapasse sua div pai */
+    height: auto;
 }
