@@ -92,3 +92,20 @@
         font-size: 16px;
     }
 }
+
+/* Adicione estas regras para estilizar as imagens flexíveis */
+.imagens-flex {
+    display: flex;
+    justify-content: space-around; /* Ajuste conforme necessário */
+    align-items: center; /* Ajuste conforme necessário */
+    margin-top: 20px; /* Ajuste conforme necessário */
+}
+
+.imagens-flex img {
+    width: 30%; /* Ajuste conforme necessário */
+    border-radius: 8px; /* Adicione bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adicione sombra sutil */
+}
+
+/* Adicione outras regras de estilo conforme necessário */
+
