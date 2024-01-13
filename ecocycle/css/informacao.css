@@ -1,4 +1,3 @@
-/* Estilos para a página de Informações Educacionais (informacao.html) */
 
 .informacao {
     background-color: #fff;
@@ -9,7 +8,7 @@
 
 .informacao h1 {
     color: #333;
-    font-size: 50px; /* Ajuste o tamanho da fonte conforme necessário */
+    font-size: 50px; 
 }
 
 .informacao {
@@ -82,20 +81,24 @@
     }
 }
 
+.informacao {
+    text-align: center; /* Centraliza o conteúdo */
+}
+
 .imagens-flex {
     display: flex;
+    justify-content: space-around; /* Espaçamento uniforme entre as imagens */
+    align-items: center; /* Alinha as imagens ao centro verticalmente */
     flex-wrap: wrap; /* Permite que as imagens se movam para a próxima linha quando não há espaço suficiente */
-    justify-content: space-around;
-    align-items: center;
+    margin: 20px 0; /* Adiciona margem ao redor das imagens */
 }
 
-.imagens-flex-img {
-    text-align: center;
-    flex: 0 0 30%; /* Define a largura das imagens, ocupando 30% da largura total da linha */
-    margin: 10px; /* Adiciona margem entre as imagens para melhor espaçamento */
+.imagens-flex img {
+    width: 100%; /* Assegura que as imagens ocupem 100% da largura da div */
+    max-width: 300px; /* Define a largura máxima das imagens */
+    height: auto; /* Mantém a proporção original da imagem */
+    border-radius: 8px; /* Adiciona bordas arredondadas */
+    margin: 10px; /* Adiciona margem entre as imagens */
 }
 
-.imagens-flex-img img {
-    max-width: 100%; /* Ajusta a largura máxima da imagem para prevenir que ela ultrapasse sua div pai */
-    height: auto;
-}
+/* Adicione outros estilos conforme necessário */
