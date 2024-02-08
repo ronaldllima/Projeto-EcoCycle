@@ -38,9 +38,9 @@
 }
 
 .service-card {
-    display: inline-block;
+    display: inline-table;
     /* Faz com que os cards de serviço fiquem um ao lado do outro */
-    margin: 10px;
+    margin: 20px;
     text-align: center;
 }
 
@@ -48,7 +48,7 @@
     background-color: #3498db;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 20px;
 }
 
@@ -65,13 +65,13 @@
 
 .about-section {
     text-align: center;
-    padding: 50px 0;
+    padding: 10px 0;
 }
 
 .about-section h2 {
     font-size: 30px;
     color: #3498db;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .about-section p {
